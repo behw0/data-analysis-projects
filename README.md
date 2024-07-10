@@ -1,6 +1,12 @@
 # Data Analysis Projects
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Projects-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-Programming-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![R](https://img.shields.io/badge/R-Statistics-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém uma coleção de projetos de análise de dados, cada um demonstrando diferentes ferramentas e técnicas usadas no campo da análise de dados. Aqui você encontrará projetos realizados com Python e Jupyter, R, Power BI, Tableau e SQL.
 
