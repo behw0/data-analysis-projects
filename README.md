@@ -12,7 +12,7 @@ Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém 
 
 ## Estrutura do Repositório
 
-- **[Python e Jupyter](./python and jupyter)**
+- **[Python e Jupyter](./python_and_jupyter)**
   - 5 projetos usando Python e Jupyter Notebook para análise de dados.
 - **[R](./R)**
   - 5 projetos utilizando R para análise de dados estatísticos e visualizações.
