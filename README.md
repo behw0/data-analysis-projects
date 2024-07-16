@@ -50,10 +50,10 @@ Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém 
    - Analisando e modelando séries temporais com R.
 
 ### Power BI
-1. **Dashboard de Vendas**
-   - Criando um dashboard interativo para monitoramento de vendas.
-2. **Análise Financeira**
-   - Desenvolvendo relatórios financeiros detalhados.
+1. **Business Analytics Dashboard**
+   - .
+2. **Treasury Dashboard**
+   - Sales, Purchasing & Cash Flow **Indicators**.
 3. **Análise de Clientes**
    - Segmentação e análise de dados de clientes.
 4. **Monitoramento de KPIs**
