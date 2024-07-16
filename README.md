@@ -51,7 +51,7 @@ Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém 
 
 ### Power BI
 1. **Business Analytics Dashboard**
-   - .
+   - Forecast, Machine Learning and Sales Analysis
 2. **Treasury Dashboard**
    - Sales, Purchasing & Cash Flow **Indicators**.
 3. **Análise de Clientes**
