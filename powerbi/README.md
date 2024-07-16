@@ -41,6 +41,9 @@ The "Treasury Dashboard" is a financial analysis dashboard developed in Power BI
 
 You can access the full interactive dashboard on the Power BI Service via the following [here](https://app.powerbi.com/view?r=eyJrIjoiN2UzNTViNTktMDc5Ni00OTJkLThmYzAtZGNjMWM5ZTcyZGMwIiwidCI6IjEyNWZkNTBkLTMxNzItNGM5NS04MzQzLTc3NDlmZTg1ZDAzZiJ9).
 
+
+
+
 # Business Analytics Dashboard
 
 ## Description
@@ -72,4 +75,5 @@ The "Business Analytics Dashboard" is a comprehensive dashboard developed in Pow
 ## Access the Dashboard
 
 You can access the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOTRkNWJiYzgtMjZkOS00YjQ5LTgzMDMtMzc1YTI5N2MxMzE5IiwidCI6IjEyNWZkNTBkLTMxNzItNGM5NS04MzQzLTc3NDlmZTg1ZDAzZiJ9).
+
 
