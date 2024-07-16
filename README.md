@@ -54,8 +54,8 @@ Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém 
    - Forecast, Machine Learning and Sales Analysis
 2. **Treasury Dashboard**
    - Sales, Purchasing & Cash Flow **Indicators**.
-3. **Análise de Clientes**
-   - Segmentação e análise de dados de clientes.
+3. **People Analytics**
+   - Employee Overview, Turnover and Retention Analysis
 4. **Monitoramento de KPIs**
    - Rastreando indicadores chave de desempenho em tempo real.
 5. **Visualização de Dados Geoespaciais**
