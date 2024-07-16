@@ -99,3 +99,37 @@ You can access the full interactive dashboard [here](https://app.powerbi.com/vie
 - Power BI Desktop
 
 
+### HR Analytics Dashboard
+
+#### Description
+
+The "HR Analytics Dashboard" is a comprehensive dashboard developed in Power BI to provide insights into various HR metrics. It offers an interactive view of key performance indicators, hiring and termination analysis, retention, and workforce demographics.
+
+#### Features
+
+##### Overview
+- **Employee Overview**: Summarizes key HR metrics including total active employees, turnover rate, absenteeism, and overtime percentage.
+- **Hiring and Terminations**: Visualizes hiring and termination trends over time.
+- **Turnover Analysis**: Shows turnover rates by year.
+- **Retention Analysis**: Displays retention rates over different periods.
+- **Demographics**: Provides insights into workforce demographics such as gender distribution and age groups.
+- **Top 3 Employees at Risk**: Identifies employees with the highest risk of turnover based on age, rating, and probability.
+
+#### Advanced Features
+- **Advanced Data Processing**: Uses Power Query for advanced data processing and transformation.
+- **DAX and Storytelling**: Combines DAX formulas with advanced storytelling techniques to provide meaningful insights.
+- **Predictive Analytics**: Includes analyses with predictive models for insights on employee turnover and retention.
+
+#### Visualizations
+
+##### HR Analytics Dashboard
+![HR Analytics Dashboard](https://github.com/behw0/data-analysis-projects/blob/main/powerbi/images/hr_analytics.jpg)
+
+#### Access the Dashboard
+
+You can access the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOTJjMTI1OWQtMzY3OS00ZjRhLTg5MDgtNmM3N2VmMzY1ZjJiIiwidCI6IjEyNWZkNTBkLTMxNzItNGM5NS04MzQzLTc3NDlmZTg1ZDAzZiJ9).
+
+#### Requirements
+
+- Power BI Desktop
+
