@@ -1,39 +1,40 @@
-# Dashboard de Análise Financeira
+# Treasury Dashboard
 
-## Descrição
+## Description
 
-Este projeto é um dashboard de análise financeira desenvolvido em Power BI. O objetivo do dashboard é fornecer uma visão detalhada e interativa das finanças de uma empresa, incluindo métricas-chave como receitas, despesas, lucro, entre outros.
+The "Treasury Dashboard" is a financial analysis dashboard developed in Power BI. It provides a comprehensive and interactive view of a company's finances, enabling detailed analysis of revenues, expenses, profits, and departmental performance.
 
-## Funcionalidades
+## Features
 
-- **Visualização de Receitas:** Gráficos que mostram a evolução das receitas ao longo do tempo.
-- **Visualização de Despesas:** Gráficos que mostram a evolução das despesas ao longo do tempo.
-- **Análise de Lucro:** Indicadores de lucro bruto, líquido e margem de lucro.
-- **Desempenho por Categoria:** Análise detalhada das finanças por diferentes categorias e departamentos.
-- **Filtros Interativos:** Filtros que permitem a personalização da visualização de dados.
+### Home Page
+- **Financial Overview**: Summarizes key financial metrics including total revenues, total expenses, and net profit.
+- **Key Performance Indicators (KPIs)**: Displays critical KPIs such as profit margin, revenue growth, and operating expenses.
 
-## Visualizações
+### Revenues
+- **Line and Bar Charts**: Visualizes revenue trends over different periods (monthly, quarterly, yearly).
+- **Category Segmentation**: Allows viewing revenues broken down by categories, products, or services.
+- **Trend Analysis**: Identifies seasonal patterns and trends in revenue growth or decline, with period comparisons.
 
-### Gráfico de Receitas
-![Receitas](path/to/revenue-chart.png)
+### Expenses
+- **Detailed Analysis**: Charts showing the evolution of expenses over time, including operational and non-operational expenses.
+- **Expense Categories**: Breakdown of expenses by category (e.g., marketing, administrative, sales).
+- **Period Comparison**: Compares expenses across different periods to identify significant variations and potential cost-saving areas.
 
-### Gráfico de Despesas
-![Despesas](path/to/expense-chart.png)
+### Profit
+- **Profit Metrics**: Displays gross profit, net profit, and profit margin metrics.
+- **Margin Analysis**: Visualizes profit margin across different products and services, identifying the most profitable ones.
+- **Profit Trends**: Identifies patterns and seasonality in profit metrics, with comparative charts across different periods.
 
-### Análise de Lucro
-![Lucro](path/to/profit-chart.png)
+### Department Performance
+- **Departmental View**: Detailed financial analysis by department, allowing performance assessment for each business area.
+- **Efficiency Indicators**: KPIs measuring the financial efficiency of each department.
+- **Performance Comparison**: Compares departments, highlighting top performers and identifying improvement areas.
 
-## Acessar o Dashboard
+### Interactive Filters
+- **Dynamic Filters**: Allows customization of data views based on various criteria such as period, product category, and department.
+- **Personalized Analysis**: Facilitates data exploration according to specific user needs, providing detailed and personalized insights.
 
-Você pode acessar o dashboard interativo completo no Power BI Service através do seguinte [link](https://app.powerbi.com/groups/me/reports/xxxxxxx).
+## Access the Dashboard
 
-## Requisitos
-
-- Power BI Desktop
-
-## Como Utilizar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/behw0/data-analysis-projects.git
+You can access the full interactive dashboard on the Power BI Service via the following [Click Here](https://app.powerbi.com/view?r=eyJrIjoiN2UzNTViNTktMDc5Ni00OTJkLThmYzAtZGNjMWM5ZTcyZGMwIiwidCI6IjEyNWZkNTBkLTMxNzItNGM5NS04MzQzLTc3NDlmZTg1ZDAzZiJ9).
 
