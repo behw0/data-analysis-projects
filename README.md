@@ -8,46 +8,38 @@
 ![R](https://img.shields.io/badge/R-Statistics-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém uma coleção de projetos de análise de dados, cada um demonstrando diferentes ferramentas e técnicas usadas no campo da análise de dados. Aqui você encontrará projetos realizados com Python e Jupyter, R, Power BI, Tableau e SQL.
+Welcome to the **Data Analysis Projects** repository! This repository contains a collection of data analysis projects, each demonstrating different tools and techniques used in the field of data analysis. Here you will find projects carried out with Python and Jupyter, R, Power BI, Tableau, and SQL.
 
-## Estrutura do Repositório
+## Repository Structure
 
 - **[Python and Jupyter](./python_and_jupyter)**
-  - 5 projetos usando Python e Jupyter Notebook para análise de dados.
+  - 3 projects using Python and Jupyter Notebook for data analysis.
 - **[R](./R)**
-  - 5 projetos utilizando R para análise de dados estatísticos e visualizações.
+  - 3 projects using R for statistical data analysis and visualizations.
 - **[Power BI](./powerbi)**
-  - 5 dashboards e relatórios interativos criados com Power BI.
-- **[Tableau](./tableu)**
-  - 5 projetos desenvolvidos com Tableau para visualização de dados.
+  - 3 interactive dashboards and reports created with Power BI.
+- **[Tableau](./tableau)**
+  - 3 projects developed with Tableau for data visualization.
 - **[SQL](./SQL)**
-  - 5 projetos utilizando SQL para manipulação e análise de bancos de dados.
+  - 3 projects using SQL for database manipulation and analysis.
 
-## Projetos
+## Projects
 
-### Python e Jupyter
-1. **Análise de Vendas**
-   - Analisando dados de vendas para identificar padrões e tendências.
-2. **Previsão de Séries Temporais**
-   - Usando modelos de séries temporais para previsão de vendas futuras.
-3. **Análise de Sentimentos**
-   - Analisando sentimentos em dados de redes sociais.
-4. **Visualização de Dados**
-   - Criando visualizações interativas usando bibliotecas como Matplotlib e Seaborn.
-5. **Machine Learning**
-   - Construindo modelos de aprendizado de máquina para classificação e regressão.
+### Python and Jupyter
+1. **Sales Analysis**
+   - Analyzing sales data to identify patterns and trends.
+2. **Time Series Forecasting**
+   - Using time series models to forecast future sales.
+3. **Sentiment Analysis**
+   - Analyzing sentiments in social media data.
 
 ### R
-1. **Análise de Dados de Saúde**
-   - Explorando e analisando dados de saúde pública.
-2. **Modelagem Estatística**
-   - Usando R para criar modelos estatísticos e prever resultados.
-3. **Visualização com ggplot2**
-   - Criando gráficos e visualizações avançadas com ggplot2.
-4. **Análise de Agrupamento**
-   - Implementando técnicas de clustering para segmentação de dados.
-5. **Análise de Séries Temporais**
-   - Analisando e modelando séries temporais com R.
+1. **Health Data Analysis**
+   - Exploring and analyzing public health data.
+2. **Statistical Modeling**
+   - Using R to create statistical models and predict outcomes.
+3. **Visualization with ggplot2**
+   - Creating advanced charts and visualizations with ggplot2.
 
 ### Power BI
 1. **Business Analytics Dashboard**
@@ -56,43 +48,31 @@ Bem-vindo ao repositório **Data Analysis Projects**! Este repositório contém 
    - Sales, Purchasing & Cash Flow **Indicators**.
 3. **People Analytics**
    - Employee Overview, Turnover and Retention Analysis
-4. **Monitoramento de KPIs**
-   - Rastreando indicadores chave de desempenho em tempo real.
-5. **Visualização de Dados Geoespaciais**
-   - Mapas e análises geoespaciais com Power BI.
 
 ### Tableau
-1. **Dashboard de Marketing**
-   - Visualizações interativas para campanhas de marketing.
-2. **Análise de Dados Demográficos**
-   - Exploração de dados demográficos com Tableau.
-3. **Relatórios de Vendas**
-   - Criando relatórios detalhados de vendas.
-4. **Análise de Desempenho**
-   - Visualizando o desempenho de diferentes departamentos.
-5. **Análise de Mercado**
-   - Explorando dados de mercado e tendências.
+1. **Marketing Dashboard**
+   - Interactive visualizations for marketing campaigns.
+2. **Demographic Data Analysis**
+   - Exploring demographic data with Tableau.
+3. **Sales Reports**
+   - Creating detailed sales reports.
 
 ### SQL
-1. **Consultas Complexas**
-   - Escrevendo consultas SQL para análise de grandes volumes de dados.
-2. **Manipulação de Dados**
-   - Usando SQL para limpar e preparar dados.
-3. **Análise de Vendas**
-   - Consultas SQL para análise de dados de vendas.
-4. **Criação de Relatórios**
-   - Gerando relatórios a partir de bancos de dados SQL.
-5. **Modelagem de Dados**
-   - Projetando e implementando esquemas de banco de dados.
+1. **Complex Queries**
+   - Writing SQL queries for analyzing large datasets.
+2. **Data Manipulation**
+   - Using SQL to clean and prepare data.
+3. **Sales Analysis**
+   - SQL queries for analyzing sales data.
 
-## Contribuição
+## Contribution
 
-Sinta-se à vontade para contribuir com este repositório. Se você tem um projeto interessante de análise de dados, adicione-o e envie um pull request!
+Feel free to contribute to this repository. If you have an interesting data analysis project, add it and send a pull request!
 
-## Licença
+## License
 
-Este repositório está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
-Espero que você encontre esses projetos úteis e inspiradores. Boa análise de dados!
+I hope you find these projects useful and inspiring. Happy data analyzing!
