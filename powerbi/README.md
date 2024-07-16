@@ -34,6 +34,9 @@ The "Treasury Dashboard" is a financial analysis dashboard developed in Power BI
 - **Dynamic Filters**: Allows customization of data views based on various criteria such as period, product category, and department.
 - **Personalized Analysis**: Facilitates data exploration according to specific user needs, providing detailed and personalized insights.
 
+### Home Treasury
+![Home Treasury](https://github.com/behw0/data-analysis-projects/blob/main/powerbi/images/home_treasury.jpg)
+
 ## Access the Dashboard
 
 You can access the full interactive dashboard on the Power BI Service via the following [Click Here](https://app.powerbi.com/view?r=eyJrIjoiN2UzNTViNTktMDc5Ni00OTJkLThmYzAtZGNjMWM5ZTcyZGMwIiwidCI6IjEyNWZkNTBkLTMxNzItNGM5NS04MzQzLTc3NDlmZTg1ZDAzZiJ9).
