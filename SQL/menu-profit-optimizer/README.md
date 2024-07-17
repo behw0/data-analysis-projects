@@ -19,12 +19,6 @@ This dataset provides insights into optimizing a restaurant's menu to maximize p
 ## Applications
 - Ideal for restaurant management and marketing strategies.
 - Useful for menu engineering and data-driven decision making in the hospitality industry.
-
-## Project Structure
-- `data/restaurant_menu_optimization_data.csv`: Dataset with information about the menu items.
-- `analysis/menu_optimization_analysis.ipynb`: Jupyter Notebook with data analysis.
-- `sql/menu_optimization_queries.sql`: SQL script with queries for data analysis.
-
 ## Python Analysis
 
 ### Load Data and Display Initial Rows
