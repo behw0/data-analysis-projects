@@ -27,11 +27,11 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
 
 ### Python and Jupyter
 1. **Sales Analysis**
-   - Analyzing sales data to identify patterns and trends.
-2. **Time Series Forecasting**
-   - Using time series models to forecast future sales.
-3. **Sentiment Analysis**
-   - Analyzing sentiments in social media data.
+   - Metrics and Sales Analysis for a Call Center
+2. **Sales Games Analysis**
+   - Video Game Sales Analysis (1980-2017)
+3. **K-means Clustering for College Data**
+   - Clustering Universities into Public and Private Groups
 
 ### R
 1. **Health Data Analysis**
