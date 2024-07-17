@@ -1,4 +1,4 @@
-# MenuMaster: Restaurant Menu Optimization
+# Menu Profit Optimization
 
 ## Visão Geral
 Este conjunto de dados fornece insights sobre a otimização do cardápio do restaurante, visando maximizar a lucratividade por meio da análise de categorias de itens do cardápio, ingredientes, preços e indicadores de lucratividade.
