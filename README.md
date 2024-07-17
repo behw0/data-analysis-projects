@@ -60,8 +60,8 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
 ### SQL
 1. **Analysis of Customer Profiles**
    - Analysis of the profile of customers who buy vehicles.
-2. **Data Manipulation**
-   - Using SQL to clean and prepare data.
+2. **Menu Profit Optimizer**
+   - Maximizing Restaurant Menu Profitability with SQL Data Analysis.
 3. **Sales Analysis**
    - SQL queries for analyzing sales data.
 
