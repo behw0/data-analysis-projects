@@ -1,40 +1,128 @@
 # Menu Profit Optimization
 
-## Visão Geral
-Este conjunto de dados fornece insights sobre a otimização do cardápio do restaurante, visando maximizar a lucratividade por meio da análise de categorias de itens do cardápio, ingredientes, preços e indicadores de lucratividade.
+## Overview
+This dataset provides insights into optimizing a restaurant's menu to maximize profitability by analyzing menu item categories, ingredients, prices, and profitability indicators.
 
-## Variáveis
-- **RestaurantID**: Identificador do restaurante.
-- **MenuCategory**: Categoria do item do menu (Aperitivos, Prato Principal, Sobremesas, Bebidas).
-- **MenuItem**: Nome do item de menu.
-- **Ingredientes**: Lista de ingredientes utilizados no item do menu (dados confidenciais incluídos para bebidas).
-- **Preço**: Preço do item do menu em dólares (arredondado para duas casas decimais).
-- **Lucratividade**: Variável-alvo que indica a lucratividade do item do menu (alta/média/baixa).
+## Variables
+- **RestaurantID**: Restaurant identifier.
+- **MenuCategory**: Category of the menu item (Appetizers, Main Course, Desserts, Beverages).
+- **MenuItem**: Name of the menu item.
+- **Ingredients**: List of ingredients used in the menu item (confidential data included for beverages).
+- **Price**: Price of the menu item in dollars (rounded to two decimal places).
+- **Profitability**: Target variable indicating the profitability of the menu item (high/medium/low).
 
-## Uso
-- Analisar fatores que influenciam a lucratividade dos itens do menu.
-- Otimize as estratégias de preços com base nos custos dos ingredientes e na categoria do menu.
-- Entenda as preferências e o comportamento de compra do cliente.
+## Usage
+- Analyze factors that influence the profitability of menu items.
+- Optimize pricing strategies based on ingredient costs and menu category.
+- Understand customer preferences and buying behavior.
 
-## Formulários
-- Ideal para gestão de restaurantes e estratégias de marketing.
-- Útil para engenharia de cardápio e tomada de decisões baseadas em dados no setor de hospitalidade.
+## Applications
+- Ideal for restaurant management and marketing strategies.
+- Useful for menu engineering and data-driven decision making in the hospitality industry.
 
-## Estrutura do Projeto
-- `data/restaurant_menu_optimization_data.csv`: Conjunto de dados com informações sobre os itens do menu.
-- `analysis/menu_optimization_analysis.ipynb`: Notebook Jupyter com a análise dos dados.
-- `sql/menu_optimization_queries.sql`: Script SQL com consultas para análise dos dados.
+## Project Structure
+- `data/restaurant_menu_optimization_data.csv`: Dataset with information about the menu items.
+- `analysis/menu_optimization_analysis.ipynb`: Jupyter Notebook with data analysis.
+- `sql/menu_optimization_queries.sql`: SQL script with queries for data analysis.
 
-## Instruções
-1. Clone este repositório: `git clone https://github.com/seu-usuario/restaurant-menu-optimization.git`
-2. Navegue até a pasta do projeto: `cd restaurant-menu-optimization`
-3. Abra o notebook Jupyter: `jupyter notebook analysis/menu_optimization_analysis.ipynb`
-4. Execute as células no notebook para realizar a análise.
-5. Execute as consultas SQL no seu ambiente de banco de dados preferido para obter insights adicionais.
+## Python Analysis
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+### Load Data and Display Initial Rows
 
-## Licença
-Este projeto está licenciado sob a Licença MIT.
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+# Load data
+```python
+data = pd.read_csv('data/restaurant_menu_optimization_data.csv')
+```
+# Display initial rows of the dataframe
+```python
+print(data.head())
+```
 
+# Descriptive analysis
+```python
+print(data.describe())
+```
+
+# Price distribution by menu category
+```python
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='MenuCategory', y='Price', data=data)
+plt.title('Price Distribution by Menu Category')
+plt.xlabel('Menu Category')
+plt.ylabel('Price ($)')
+plt.show()
+```
+
+# Profitability by menu category
+```python
+plt.figure(figsize=(10, 6))
+sns.countplot(x='MenuCategory', hue='Profitability', data=data)
+plt.title('Profitability by Menu Category')
+plt.xlabel('Menu Category')
+plt.ylabel('Count')
+plt.legend(title='Profitability')
+plt.show()
+```
+
+### SQL Queries
+
+### 1. Number of Items by Menu Category
+```sql
+SELECT
+    MenuCategory,
+    COUNT(MenuItem) AS NumItems
+FROM
+    restaurant_menu
+GROUP BY
+    MenuCategory;
+```
+### 2. Average Prices by Menu Category
+```sql
+SELECT
+    MenuCategory,
+    AVG(Price) AS AvgPrice
+FROM
+    restaurant_menu
+GROUP BY
+    MenuCategory;
+```
+### 3. Menu Items with High Profitability
+```sql
+SELECT
+    MenuItem,
+    MenuCategory,
+    Price,
+    Ingredientes
+FROM
+    restaurant_menu
+WHERE
+    Lucratividade = 'alta';
+```
+### 4. Menu Items with Low Profitability
+```sql
+SELECT
+    MenuItem,
+    MenuCategory,
+    Price,
+    Ingredientes
+FROM
+    restaurant_menu
+WHERE
+    Lucratividade = 'baixa';
+```
+### 5. Profitability Distribution by Menu Category
+```sql
+SELECT
+    MenuCategory,
+    Lucratividade,
+    COUNT(MenuItem) AS NumItems
+FROM
+    restaurant_menu
+GROUP BY
+    MenuCategory, Lucratividade;
+```
