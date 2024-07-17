@@ -1,25 +1,38 @@
-![PROJETO SALES_site_dark](https://user-images.githubusercontent.com/103602522/175695715-76b513e9-cd4d-4927-9681-a815555d88cf.jpg)
-
-
 # Sales Analysis Dash
 
-Dashboard para análise de métricas e vendas de um call center feito com Python.
+## Description
 
-## 🔧 Funções
+Dashboard for analyzing metrics and sales of a call center made with Python.
 
-- Ler e dispor dados de forma visual das minuciosidades do dataset
-- Filtrar por equipe e/ou mês os dados para uma análise mais precisa e específica
-- Possibilidade de alternar entre o tema claro e escuro do layout
+## Features
 
-## 👨‍💻 Tecnologias Utilizadas
+- Read and visually display the dataset's details.
+- Filter by team and/or month for more precise and specific analysis.
+- Ability to switch between light and dark themes.
 
-Utilizando apenas **PYTHON** e as bibliotecas:
-> - Dash
-> - Dash-Core-Components
-> - Dash HTML
-> - Dash Bootstrap
-> - Plotly
-> - Pandas
+## Technologies Used
 
+Using only PYTHON and the following libraries:
 
+- Dash
+- Dash-Core-Components
+- Dash HTML
+- Dash Bootstrap
+- Plotly
+- Pandas
 
+## Dashboard Image
+
+![Dashboard](https://user-images.githubusercontent.com/103602522/175695715-76b513e9-cd4d-4927-9681-a815555d88cf.jpg)
+
+## Step by Step
+
+### Prerequisites
+
+Make sure you have Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/behw0/data-analysis-projects.git
