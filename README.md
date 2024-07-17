@@ -58,7 +58,7 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
    - Creating detailed sales reports.
 
 ### SQL
-1. **Analysis of customer profiles**
+1. **Analysis of Customer Profiles**
    - Analysis of the profile of customers who buy vehicles.
 2. **Data Manipulation**
    - Using SQL to clean and prepare data.
