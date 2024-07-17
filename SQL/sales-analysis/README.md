@@ -1,4 +1,4 @@
-# SQL Sales Analysis
+# SQL Analysis of customer profiles
 
 This project analyzes sales data using SQL queries to generate insights, which are then visualized in Excel.
 
