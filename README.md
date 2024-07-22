@@ -14,12 +14,12 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
 
 - **[Python and Jupyter](./python_and_jupyter)**
   - 3 projects using Python and Jupyter Notebook for data analysis.
-- **[R](./R)**
-  - 3 projects using R for statistical data analysis and visualizations. (under construction, I'm out of time)
+- **[R](./R)** (under construction, I'm out of time)
+  - 3 projects using R for statistical data analysis and visualizations.
 - **[Power BI](./powerbi)**
   - 3 interactive dashboards and reports created with Power BI.
-- **[Tableau](./tableau)**
-  - 3 projects developed with Tableau for data visualization.
+- **[Tableau](./tableau)** (under construction, I'm out of time)
+  - 3 projects developed with Tableau for data visualization. 
 - **[SQL](./SQL)**
   - 3 projects using SQL for database manipulation and analysis.
 
