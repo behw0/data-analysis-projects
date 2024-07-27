@@ -13,15 +13,15 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
 ## Repository Structure
 
 - **[Python and Jupyter](./python_and_jupyter)**
-  - 3 projects using Python and Jupyter Notebook for data analysis.
+  - projects using Python and Jupyter Notebook for data analysis.
 - **[R](./R)** (under construction, I'm out of time)
-  - 3 projects using R for statistical data analysis and visualizations.
+  - projects using R for statistical data analysis and visualizations.
 - **[Power BI](./powerbi)**
-  - 3 interactive dashboards and reports created with Power BI.
+  - interactive dashboards and reports created with Power BI.
 - **[Tableau](./tableau)** (under construction, I'm out of time)
-  - 3 projects developed with Tableau for data visualization. 
+  - projects developed with Tableau for data visualization. 
 - **[SQL](./SQL)**
-  - 3 projects using SQL for database manipulation and analysis.
+  - projects using SQL for database manipulation and analysis.
 
 ## Projects
 
@@ -34,12 +34,8 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
    - Clustering Universities into Public and Private Groups
 
 ### R
-1. **Health Data Analysis**
-   - Exploring and analyzing public health data.
-2. **Statistical Modeling**
-   - Using R to create statistical models and predict outcomes.
-3. **Visualization with ggplot2**
-   - Creating advanced charts and visualizations with ggplot2.
+1. **Sentiment Analysis**
+   - Sentiment Analysis and Market Trend Forecasting with Social Media.
 
 ### Power BI
 1. **Business Analytics Dashboard**
