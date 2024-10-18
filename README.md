@@ -33,7 +33,7 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
 3. **K-means Clustering for College Data**
    - Clustering Universities into Public and Private Groups
 
-### R
+### R (under construction, I'm out of time)
 1. **Sentiment Analysis**
    - Sentiment Analysis and Market Trend Forecasting with Social Media.
 
