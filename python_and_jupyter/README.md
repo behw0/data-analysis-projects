@@ -1,4 +1,4 @@
-# Python and Jupyter Projects
+# Python Projects
 
 This repository contains various data analysis and machine learning projects developed using Python and Jupyter Notebooks. Each project showcases different techniques and libraries used for data processing, visualization, and machine learning.
 
