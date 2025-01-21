@@ -2,40 +2,30 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Projects-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 ![Python](https://img.shields.io/badge/Python-Programming-brightgreen)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![R](https://img.shields.io/badge/R-Statistics-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 Welcome to the **Data Analysis Projects** repository! This repository contains a collection of data analysis projects, each demonstrating different tools and techniques used in the field of data analysis. Here you will find projects carried out with Python and Jupyter, R, Power BI, Tableau, and SQL.
 
 ## Repository Structure
 
-- **[Python and Jupyter](./python_and_jupyter)**
+- **[Python](./python_and_jupyter)**
   - projects using Python and Jupyter Notebook for data analysis.
-- **[R](./R)** (under construction, I'm out of time)
-  - projects using R for statistical data analysis and visualizations.
 - **[Power BI](./powerbi)**
   - interactive dashboards and reports created with Power BI.
-- **[Tableau](./tableau)** (under construction, I'm out of time)
-  - projects developed with Tableau for data visualization. 
 - **[SQL](./SQL)**
   - projects using SQL for database manipulation and analysis.
 
 ## Projects
 
-### Python and Jupyter
+### Python
 1. **Sales Analysis**
    - Metrics and Sales Analysis for a Call Center
 2. **Sales Games Analysis**
    - Video Game Sales Analysis (1980-2017)
 3. **K-means Clustering for College Data**
    - Clustering Universities into Public and Private Groups
-
-### R (under construction, I'm out of time)
-1. **Sentiment Analysis**
-   - Sentiment Analysis and Market Trend Forecasting with Social Media.
 
 ### Power BI
 1. **Business Analytics Dashboard**
@@ -44,14 +34,6 @@ Welcome to the **Data Analysis Projects** repository! This repository contains a
    - Sales, Purchasing & Cash Flow **Indicators**.
 3. **People Analytics**
    - Employee Overview, Turnover and Retention Analysis
-
-### Tableau (under construction, I'm out of time)
-1. **Marketing Dashboard**
-   - Interactive visualizations for marketing campaigns.
-2. **Demographic Data Analysis**
-   - Exploring demographic data with Tableau.
-3. **Sales Reports**
-   - Creating detailed sales reports.
 
 ### SQL
 1. **Analysis of Customer Profiles**
