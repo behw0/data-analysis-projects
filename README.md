@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-Welcome to the **Data Analysis Projects** repository! This repository contains a collection of data analysis projects, each demonstrating different tools and techniques used in the field of data analysis. Here you will find projects carried out with Python and Jupyter, R, Power BI, Tableau, and SQL.
+Welcome to the **Data Analysis Projects** repository! This repository contains a collection of data analysis projects, each demonstrating different tools and techniques used in the field of data analysis. Here you will find projects carried out with Python and Jupyter,Power BI and SQL.
 
 ## Repository Structure
 
